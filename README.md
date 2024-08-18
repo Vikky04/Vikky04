@@ -1,12 +1,10 @@
 ![Header](https://github.com/Vikky04/Vikky04/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vikas Bishnoi</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A competitive programmer & MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky04&label=Profile%20views&color=0e75b6&style=flat" alt="vikky04" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
-
-- 💬 Ask me about **react, node, express, data structure and algorithms**
+- 💬 Ask me about **React, Node, Express, MongoDB, data structure and algorithms**
 
 - 📫 How to reach me **vickybishnoi0100@gmail.com**
 
